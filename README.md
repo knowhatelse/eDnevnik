@@ -1,3 +1,7 @@
+# About
+This web application, which consists of a backend made in ASP.NET Core Web API and an Angular frontend, is a seminar work on which my colleague and I are currently still working. </br>
+The original project repository is on Azure DevOps and is private, this is just a reupload of the project on GitHub. </br>
+
 # Introduction 
 TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
 
