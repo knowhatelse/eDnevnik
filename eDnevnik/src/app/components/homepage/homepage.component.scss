@@ -1,0 +1,72 @@
+@import '../../../styles.scss';
+
+#content-holder-div {
+    height: 100vh;
+    width: 100vw;
+    background-color: $green-accent;
+}
+
+#center-div {
+    width: 70%;
+    height: 85%;
+    max-width: 1920px;
+    background-color: $green-accent;
+    box-shadow: 0px 0px 150px rgba(0, 0, 0, 0.25);
+}
+
+#center-div-right {
+    background-color: $gray-bright;
+}
+
+#register-button {
+    background-color: $green-accent;
+}
+
+#login-button {
+    background-color: $light-gold;
+}
+
+button {
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+    border: 2px solid $white;
+    color: $white;
+    font-size: 1.15rem;
+    font-weight: bold;
+    transition: all 0.2s ease;
+}
+
+button:hover {
+    transform: scale(1.15);
+}
+
+#title-left {
+    font-size: 100px;
+    font-weight: bold;
+    color: $white;
+}
+
+#title-right {
+    color: $green-accent;
+}
+
+input{
+    width: 75%;
+    height: 50px;
+    border: none;
+    border-radius: 20px;
+    @include input-focus($light-gold);
+}
+
+@media only screen and (max-width: 700px) {
+    #center-div {
+        height: 100%;
+        width: 100%;
+    }
+    
+    #title-left {
+        font-size: 70px;
+    }
+    
+  }

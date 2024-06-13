@@ -1,0 +1,520 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|c:\\users\\knowhatelse\\projects\\ednevnik\\webapp\\ednevnik - backend\\controllers\\verificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|solutionrelative:ednevnik - backend\\controllers\\verificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|c:\\users\\knowhatelse\\projects\\ednevnik\\webapp\\ednevnik - backend\\controllers\\schoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|solutionrelative:ednevnik - backend\\controllers\\schoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|c:\\users\\knowhatelse\\projects\\ednevnik\\webapp\\ednevnik - backend\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|solutionrelative:ednevnik - backend\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|c:\\users\\knowhatelse\\projects\\ednevnik\\webapp\\ednevnik - backend\\controllers\\studentrulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|solutionrelative:ednevnik - backend\\controllers\\studentrulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|c:\\users\\knowhatelse\\projects\\ednevnik\\webapp\\ednevnik - backend\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|solutionrelative:ednevnik - backend\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|c:\\users\\knowhatelse\\projects\\ednevnik\\webapp\\ednevnik - backend\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|solutionrelative:ednevnik - backend\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|c:\\users\\knowhatelse\\projects\\ednevnik\\webapp\\ednevnik - backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|solutionrelative:ednevnik - backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|c:\\users\\knowhatelse\\projects\\ednevnik\\webapp\\ednevnik - backend\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|solutionrelative:ednevnik - backend\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|c:\\users\\knowhatelse\\projects\\ednevnik\\webapp\\ednevnik - backend\\controllers\\parentmeetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|solutionrelative:ednevnik - backend\\controllers\\parentmeetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|c:\\users\\knowhatelse\\projects\\ednevnik\\webapp\\ednevnik - backend\\controllers\\parentjustificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|solutionrelative:ednevnik - backend\\controllers\\parentjustificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|c:\\users\\knowhatelse\\projects\\ednevnik\\webapp\\ednevnik - backend\\controllers\\parentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|solutionrelative:ednevnik - backend\\controllers\\parentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|c:\\users\\knowhatelse\\projects\\ednevnik\\webapp\\ednevnik - backend\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|solutionrelative:ednevnik - backend\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|c:\\users\\knowhatelse\\projects\\ednevnik\\webapp\\ednevnik - backend\\controllers\\meetingconfirmationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|solutionrelative:ednevnik - backend\\controllers\\meetingconfirmationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|c:\\users\\knowhatelse\\projects\\ednevnik\\webapp\\ednevnik - backend\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|solutionrelative:ednevnik - backend\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|c:\\users\\knowhatelse\\projects\\ednevnik\\webapp\\ednevnik - backend\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|solutionrelative:ednevnik - backend\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|c:\\users\\knowhatelse\\projects\\ednevnik\\webapp\\ednevnik - backend\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|solutionrelative:ednevnik - backend\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|c:\\users\\knowhatelse\\projects\\ednevnik\\webapp\\ednevnik - backend\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|solutionrelative:ednevnik - backend\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|c:\\users\\knowhatelse\\projects\\ednevnik\\webapp\\ednevnik - backend\\controllers\\dataseedercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|solutionrelative:ednevnik - backend\\controllers\\dataseedercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|c:\\users\\knowhatelse\\projects\\ednevnik\\webapp\\ednevnik - backend\\controllers\\contactinformationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|solutionrelative:ednevnik - backend\\controllers\\contactinformationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|c:\\users\\knowhatelse\\projects\\ednevnik\\webapp\\ednevnik - backend\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|solutionrelative:ednevnik - backend\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|c:\\users\\knowhatelse\\projects\\ednevnik\\webapp\\ednevnik - backend\\controllers\\baseusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|solutionrelative:ednevnik - backend\\controllers\\baseusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|c:\\users\\knowhatelse\\projects\\ednevnik\\webapp\\ednevnik - backend\\controllers\\basecrudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|solutionrelative:ednevnik - backend\\controllers\\basecrudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|c:\\users\\knowhatelse\\projects\\ednevnik\\webapp\\ednevnik - backend\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|solutionrelative:ednevnik - backend\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|c:\\users\\knowhatelse\\projects\\ednevnik\\webapp\\ednevnik - backend\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|solutionrelative:ednevnik - backend\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|c:\\users\\knowhatelse\\projects\\ednevnik\\webapp\\ednevnik - backend\\controllers\\absencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|solutionrelative:ednevnik - backend\\controllers\\absencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|c:\\users\\knowhatelse\\projects\\ednevnik\\webapp\\ednevnik - backend\\helpers\\token\\jwttoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|solutionrelative:ednevnik - backend\\helpers\\token\\jwttoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|c:\\users\\knowhatelse\\projects\\ednevnik\\webapp\\ednevnik - backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|solutionrelative:ednevnik - backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|c:\\users\\knowhatelse\\projects\\ednevnik\\webapp\\ednevnik - backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|solutionrelative:ednevnik - backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|c:\\users\\knowhatelse\\projects\\ednevnik\\webapp\\ednevnik - backend\\ednevnik - backend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B0D6FC55-E713-4086-9F00-65AE0B23FA5A}|eDnevnik - backend\\eDnevnik - backend.csproj|solutionrelative:ednevnik - backend\\ednevnik - backend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "eDnevnik - backend\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "eDnevnik - backend\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:49:38.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "eDnevnik - backend\\Controllers\\TeachersController.cs",
+              "ToolTip": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "eDnevnik - backend\\Controllers\\TeachersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:49:34.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SubjectController.cs",
+              "DocumentMoniker": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\SubjectController.cs",
+              "RelativeDocumentMoniker": "eDnevnik - backend\\Controllers\\SubjectController.cs",
+              "ToolTip": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\SubjectController.cs",
+              "RelativeToolTip": "eDnevnik - backend\\Controllers\\SubjectController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:49:30.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentRuleController.cs",
+              "DocumentMoniker": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\StudentRuleController.cs",
+              "RelativeDocumentMoniker": "eDnevnik - backend\\Controllers\\StudentRuleController.cs",
+              "ToolTip": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\StudentRuleController.cs",
+              "RelativeToolTip": "eDnevnik - backend\\Controllers\\StudentRuleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:49:26.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "eDnevnik - backend\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "eDnevnik - backend\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:49:23.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchoolController.cs",
+              "DocumentMoniker": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\SchoolController.cs",
+              "RelativeDocumentMoniker": "eDnevnik - backend\\Controllers\\SchoolController.cs",
+              "ToolTip": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\SchoolController.cs",
+              "RelativeToolTip": "eDnevnik - backend\\Controllers\\SchoolController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:49:19.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VerificationController.cs",
+              "DocumentMoniker": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\VerificationController.cs",
+              "RelativeDocumentMoniker": "eDnevnik - backend\\Controllers\\VerificationController.cs",
+              "ToolTip": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\VerificationController.cs",
+              "RelativeToolTip": "eDnevnik - backend\\Controllers\\VerificationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:45:35.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "eDnevnik - backend\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "eDnevnik - backend\\Controllers\\ReportController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:49:14.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ParentMeetingController.cs",
+              "DocumentMoniker": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\ParentMeetingController.cs",
+              "RelativeDocumentMoniker": "eDnevnik - backend\\Controllers\\ParentMeetingController.cs",
+              "ToolTip": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\ParentMeetingController.cs",
+              "RelativeToolTip": "eDnevnik - backend\\Controllers\\ParentMeetingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:49:11.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ParentJustificationController.cs",
+              "DocumentMoniker": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\ParentJustificationController.cs",
+              "RelativeDocumentMoniker": "eDnevnik - backend\\Controllers\\ParentJustificationController.cs",
+              "ToolTip": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\ParentJustificationController.cs",
+              "RelativeToolTip": "eDnevnik - backend\\Controllers\\ParentJustificationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:49:07.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ParentController.cs",
+              "DocumentMoniker": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\ParentController.cs",
+              "RelativeDocumentMoniker": "eDnevnik - backend\\Controllers\\ParentController.cs",
+              "ToolTip": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\ParentController.cs",
+              "RelativeToolTip": "eDnevnik - backend\\Controllers\\ParentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:49:04.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NoteController.cs",
+              "DocumentMoniker": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\NoteController.cs",
+              "RelativeDocumentMoniker": "eDnevnik - backend\\Controllers\\NoteController.cs",
+              "ToolTip": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\NoteController.cs",
+              "RelativeToolTip": "eDnevnik - backend\\Controllers\\NoteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:49:00.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MeetingConfirmationController.cs",
+              "DocumentMoniker": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\MeetingConfirmationController.cs",
+              "RelativeDocumentMoniker": "eDnevnik - backend\\Controllers\\MeetingConfirmationController.cs",
+              "ToolTip": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\MeetingConfirmationController.cs",
+              "RelativeToolTip": "eDnevnik - backend\\Controllers\\MeetingConfirmationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:48:56.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GradeController.cs",
+              "DocumentMoniker": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\GradeController.cs",
+              "RelativeDocumentMoniker": "eDnevnik - backend\\Controllers\\GradeController.cs",
+              "ToolTip": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\GradeController.cs",
+              "RelativeToolTip": "eDnevnik - backend\\Controllers\\GradeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:48:52.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExamController.cs",
+              "DocumentMoniker": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\ExamController.cs",
+              "RelativeDocumentMoniker": "eDnevnik - backend\\Controllers\\ExamController.cs",
+              "ToolTip": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\ExamController.cs",
+              "RelativeToolTip": "eDnevnik - backend\\Controllers\\ExamController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:48:49.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\EmailController.cs",
+              "RelativeDocumentMoniker": "eDnevnik - backend\\Controllers\\EmailController.cs",
+              "ToolTip": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\EmailController.cs",
+              "RelativeToolTip": "eDnevnik - backend\\Controllers\\EmailController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:48:44.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "eDnevnik - backend\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "eDnevnik - backend\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:48:29.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DataSeederController.cs",
+              "DocumentMoniker": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\DataSeederController.cs",
+              "RelativeDocumentMoniker": "eDnevnik - backend\\Controllers\\DataSeederController.cs",
+              "ToolTip": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\DataSeederController.cs",
+              "RelativeToolTip": "eDnevnik - backend\\Controllers\\DataSeederController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:48:26.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ContactInformationController.cs",
+              "DocumentMoniker": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\ContactInformationController.cs",
+              "RelativeDocumentMoniker": "eDnevnik - backend\\Controllers\\ContactInformationController.cs",
+              "ToolTip": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\ContactInformationController.cs",
+              "RelativeToolTip": "eDnevnik - backend\\Controllers\\ContactInformationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:48:22.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClassController.cs",
+              "DocumentMoniker": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\ClassController.cs",
+              "RelativeDocumentMoniker": "eDnevnik - backend\\Controllers\\ClassController.cs",
+              "ToolTip": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\ClassController.cs",
+              "RelativeToolTip": "eDnevnik - backend\\Controllers\\ClassController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:48:19.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseUserController.cs",
+              "DocumentMoniker": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\BaseUserController.cs",
+              "RelativeDocumentMoniker": "eDnevnik - backend\\Controllers\\BaseUserController.cs",
+              "ToolTip": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\BaseUserController.cs",
+              "RelativeToolTip": "eDnevnik - backend\\Controllers\\BaseUserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:48:07.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseCRUDController.cs",
+              "DocumentMoniker": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\BaseCRUDController.cs",
+              "RelativeDocumentMoniker": "eDnevnik - backend\\Controllers\\BaseCRUDController.cs",
+              "ToolTip": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\BaseCRUDController.cs",
+              "RelativeToolTip": "eDnevnik - backend\\Controllers\\BaseCRUDController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:48:01.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "eDnevnik - backend\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "eDnevnik - backend\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:47:54.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AbsenceController.cs",
+              "DocumentMoniker": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\AbsenceController.cs",
+              "RelativeDocumentMoniker": "eDnevnik - backend\\Controllers\\AbsenceController.cs",
+              "ToolTip": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\AbsenceController.cs",
+              "RelativeToolTip": "eDnevnik - backend\\Controllers\\AbsenceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:45:47.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "JwtToken.cs",
+              "DocumentMoniker": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Helpers\\Token\\JwtToken.cs",
+              "RelativeDocumentMoniker": "eDnevnik - backend\\Helpers\\Token\\JwtToken.cs",
+              "ToolTip": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Helpers\\Token\\JwtToken.cs",
+              "RelativeToolTip": "eDnevnik - backend\\Helpers\\Token\\JwtToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:48:26.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "eDnevnik - backend\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "eDnevnik - backend\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:45:17.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Program.cs",
+              "RelativeDocumentMoniker": "eDnevnik - backend\\Program.cs",
+              "ToolTip": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\Program.cs",
+              "RelativeToolTip": "eDnevnik - backend\\Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAFQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:31:57.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "eDnevnik - backend",
+              "DocumentMoniker": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\eDnevnik - backend.csproj",
+              "RelativeDocumentMoniker": "eDnevnik - backend\\eDnevnik - backend.csproj",
+              "ToolTip": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\eDnevnik - backend.csproj",
+              "RelativeToolTip": "eDnevnik - backend\\eDnevnik - backend.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-04T16:19:43.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\appsettings.json",
+              "RelativeDocumentMoniker": "eDnevnik - backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\knowhatelse\\Projects\\eDnevnik\\webapp\\eDnevnik - backend\\appsettings.json",
+              "RelativeToolTip": "eDnevnik - backend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-04T16:19:13.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

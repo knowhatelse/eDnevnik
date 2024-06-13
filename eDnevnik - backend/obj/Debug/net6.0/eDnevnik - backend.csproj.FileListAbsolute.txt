@@ -1,0 +1,320 @@
+C:\Users\lepir\webapp\eDnevnik\eDnevnik - backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lepir\webapp\eDnevnik\eDnevnik - backend\bin\Debug\net6.0\appsettings.json
+C:\Users\lepir\webapp\eDnevnik\eDnevnik - backend\bin\Debug\net6.0\eDnevnik - backend.exe
+C:\Users\lepir\webapp\eDnevnik\eDnevnik - backend\bin\Debug\net6.0\eDnevnik - backend.deps.json
+C:\Users\lepir\webapp\eDnevnik\eDnevnik - backend\bin\Debug\net6.0\eDnevnik - backend.runtimeconfig.json
+C:\Users\lepir\webapp\eDnevnik\eDnevnik - backend\bin\Debug\net6.0\eDnevnik - backend.dll
+C:\Users\lepir\webapp\eDnevnik\eDnevnik - backend\bin\Debug\net6.0\eDnevnik - backend.pdb
+C:\Users\lepir\webapp\eDnevnik\eDnevnik - backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lepir\webapp\eDnevnik\eDnevnik - backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lepir\webapp\eDnevnik\eDnevnik - backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lepir\webapp\eDnevnik\eDnevnik - backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lepir\webapp\eDnevnik\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.csproj.AssemblyReference.cache
+C:\Users\lepir\webapp\eDnevnik\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lepir\webapp\eDnevnik\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.AssemblyInfoInputs.cache
+C:\Users\lepir\webapp\eDnevnik\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.AssemblyInfo.cs
+C:\Users\lepir\webapp\eDnevnik\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.csproj.CoreCompileInputs.cache
+C:\Users\lepir\webapp\eDnevnik\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lepir\webapp\eDnevnik\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lepir\webapp\eDnevnik\eDnevnik - backend\obj\Debug\net6.0\staticwebassets\msbuild.eDnevnik - backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lepir\webapp\eDnevnik\eDnevnik - backend\obj\Debug\net6.0\staticwebassets\msbuild.build.eDnevnik - backend.props
+C:\Users\lepir\webapp\eDnevnik\eDnevnik - backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eDnevnik - backend.props
+C:\Users\lepir\webapp\eDnevnik\eDnevnik - backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eDnevnik - backend.props
+C:\Users\lepir\webapp\eDnevnik\eDnevnik - backend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lepir\webapp\eDnevnik\eDnevnik - backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lepir\webapp\eDnevnik\eDnevnik - backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lepir\webapp\eDnevnik\eDnevnik - backend\obj\Debug\net6.0\scopedcss\bundle\eDnevnik - backend.styles.css
+C:\Users\lepir\webapp\eDnevnik\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.csproj.CopyComplete
+C:\Users\lepir\webapp\eDnevnik\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.dll
+C:\Users\lepir\webapp\eDnevnik\eDnevnik - backend\obj\Debug\net6.0\refint\eDnevnik - backend.dll
+C:\Users\lepir\webapp\eDnevnik\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.pdb
+C:\Users\lepir\webapp\eDnevnik\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.genruntimeconfig.cache
+C:\Users\lepir\webapp\eDnevnik\eDnevnik - backend\obj\Debug\net6.0\ref\eDnevnik - backend.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\appsettings.json
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\eDnevnik - backend.exe
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\eDnevnik - backend.deps.json
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\eDnevnik - backend.runtimeconfig.json
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\eDnevnik - backend.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\eDnevnik - backend.pdb
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lepir\webapp\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.csproj.AssemblyReference.cache
+C:\Users\lepir\webapp\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lepir\webapp\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.AssemblyInfoInputs.cache
+C:\Users\lepir\webapp\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.AssemblyInfo.cs
+C:\Users\lepir\webapp\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.csproj.CoreCompileInputs.cache
+C:\Users\lepir\webapp\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lepir\webapp\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lepir\webapp\eDnevnik - backend\obj\Debug\net6.0\staticwebassets\msbuild.eDnevnik - backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lepir\webapp\eDnevnik - backend\obj\Debug\net6.0\staticwebassets\msbuild.build.eDnevnik - backend.props
+C:\Users\lepir\webapp\eDnevnik - backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eDnevnik - backend.props
+C:\Users\lepir\webapp\eDnevnik - backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eDnevnik - backend.props
+C:\Users\lepir\webapp\eDnevnik - backend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lepir\webapp\eDnevnik - backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lepir\webapp\eDnevnik - backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lepir\webapp\eDnevnik - backend\obj\Debug\net6.0\scopedcss\bundle\eDnevnik - backend.styles.css
+C:\Users\lepir\webapp\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.csproj.CopyComplete
+C:\Users\lepir\webapp\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.dll
+C:\Users\lepir\webapp\eDnevnik - backend\obj\Debug\net6.0\refint\eDnevnik - backend.dll
+C:\Users\lepir\webapp\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.pdb
+C:\Users\lepir\webapp\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.genruntimeconfig.cache
+C:\Users\lepir\webapp\eDnevnik - backend\obj\Debug\net6.0\ref\eDnevnik - backend.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Humanizer.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\lepir\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\appsettings.json
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\eDnevnik - backend.exe
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\eDnevnik - backend.deps.json
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\eDnevnik - backend.runtimeconfig.json
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\eDnevnik - backend.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\eDnevnik - backend.pdb
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Humanizer.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.csproj.AssemblyReference.cache
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.AssemblyInfoInputs.cache
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.AssemblyInfo.cs
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.csproj.CoreCompileInputs.cache
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\obj\Debug\net6.0\staticwebassets\msbuild.eDnevnik - backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\obj\Debug\net6.0\staticwebassets\msbuild.build.eDnevnik - backend.props
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eDnevnik - backend.props
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eDnevnik - backend.props
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\obj\Debug\net6.0\scopedcss\bundle\eDnevnik - backend.styles.css
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.csproj.CopyComplete
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\obj\Debug\net6.0\refint\eDnevnik - backend.dll
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.pdb
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.genruntimeconfig.cache
+C:\Users\knowhatelse\Documents\1\2. Programming\RS1_Seminarski\webapp\eDnevnik - backend\obj\Debug\net6.0\ref\eDnevnik - backend.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\appsettings.Development.json
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\appsettings.json
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\eDnevnik - backend.exe
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\eDnevnik - backend.deps.json
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\eDnevnik - backend.runtimeconfig.json
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\eDnevnik - backend.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\eDnevnik - backend.pdb
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\AutoMapper.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Azure.Core.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Azure.Identity.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\BCrypt.Net-Next.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Enums.NET.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\ColorTranslations.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Humanizer.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\jose-jwt.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\MailKit.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\MimeKit.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Mono.TextTemplating.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Newtonsoft.Json.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\System.CodeDom.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\System.Drawing.Common.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\System.Formats.Asn1.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\System.IO.Abstractions.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\System.Memory.Data.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\System.Runtime.Caching.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\System.Security.Permissions.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\System.Text.Json.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\System.Windows.Extensions.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\TestableIO.System.IO.Abstractions.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\TestableIO.System.IO.Abstractions.Wrappers.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Vonage.Common.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Vonage.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\Yoh.Text.Json.NamingPolicies.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.csproj.AssemblyReference.cache
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.AssemblyInfoInputs.cache
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.AssemblyInfo.cs
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.csproj.CoreCompileInputs.cache
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\obj\Debug\net6.0\staticwebassets\msbuild.eDnevnik - backend.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\obj\Debug\net6.0\staticwebassets\msbuild.build.eDnevnik - backend.props
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eDnevnik - backend.props
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eDnevnik - backend.props
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\obj\Debug\net6.0\staticwebassets.pack.json
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\obj\Debug\net6.0\staticwebassets.build.json
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\obj\Debug\net6.0\staticwebassets.development.json
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\obj\Debug\net6.0\scopedcss\bundle\eDnevnik - backend.styles.css
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.csproj.CopyComplete
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\obj\Debug\net6.0\refint\eDnevnik - backend.dll
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.pdb
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\obj\Debug\net6.0\eDnevnik - backend.genruntimeconfig.cache
+c:\Users\knowhatelse\Projects\eDnevnik\webapp\eDnevnik - backend\obj\Debug\net6.0\ref\eDnevnik - backend.dll

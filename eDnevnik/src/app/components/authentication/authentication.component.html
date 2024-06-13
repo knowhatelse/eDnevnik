@@ -1,0 +1,30 @@
+<form #authForm="ngForm" (ngSubmit)="authenticate()" style="width: 100%; height: 95%;">
+<h1 mat-dialog-title class="text-center fs-1 mt-4 fw-bold" style="color: #007575;">Autentifikacija</h1>
+<div mat-dialog-content class="h-75">
+    <div class="container-fluid">
+        <div class="row d-flex align-items-center justify-content-center mt-3">
+            <img src="../../assets/images/authentication.png" alt="Authentication" style="height: 128px; width: 128px;">
+        </div>
+        <div class="row mt-3 text-center h-100">
+            <p class="fs-5 mt-4 mb-3 lh-1">Kod za autentifikaciju Vam je poslan na vaš broj telefona.</p> 
+            <p class="fs-5 mb-4 lh-1"> Molimo unesite kod koji ste dobili kako biste nastavili:</p>
+        </div>
+        <div class="row mt-3">
+            <input name="verificationToken" [(ngModel)]="authenticationCode" type="text" placeholder="X X X X X X" class="form-control text-center pop-up-input" autocomplete="off">
+        </div>
+        <div class="row mt-5 text-center h-100">
+            <p id="resend-code-link" class="fs-6" (click)="resendAuthenticationCode()">Niste dobili kod? Pošalji kod ponovo.</p>
+        </div>
+    </div>
+</div>
+<div mat-dialog-actions class="container-fluid d-flex align-items-center">
+    <div class="row h-100 w-100">
+        <div class="col-6 d-flex justify-content-center">
+            <button mat-raised-button mat-dialog-close class="drop-shadow m-1 pop-up-button" style="background-color: #00C9CD;">Zatvori</button>
+        </div>
+        <div class="col-6 d-flex justify-content-center">
+            <button mat-raised-button class="drop-shadow m-1 pop-up-button" style="background-color: #EEE8A9;" type="submit">Potvrdi</button>
+        </div>
+    </div>
+</div>
+</form>

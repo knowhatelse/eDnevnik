@@ -1,0 +1,8 @@
+<app-homepage *ngIf="isLoggedIn == false"  [@fadeInOut]></app-homepage>
+
+<div class="h-100 w-100 d-flex" *ngIf="isLoggedIn == true" [@fadeInOut] style="background-color: #E6F4F1;">
+    <app-dashboard style="width: 17.5%; max-width: 300px;"></app-dashboard>
+    <div style="height: 100%; width: 100%;">
+        <router-outlet></router-outlet>
+    </div>
+</div>

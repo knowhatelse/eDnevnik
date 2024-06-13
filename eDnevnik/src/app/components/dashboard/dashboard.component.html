@@ -1,0 +1,22 @@
+<div id="holder" class="container d-flex flex-column h-100 drop-shadow" style="background-color: #008080;">
+    <div class="container-fluid w-100 d-flex justify-content-center align-items-center mb-3" style="max-height: 50px; min-height: 50px;">
+        <p id="title" class="fs-2 fw-bold align-self-center" (click)="openComponent('information')">eDnevnik</p>
+    </div>
+    <div class="container-fluid" style="flex:1;">
+        <div *ngIf="gradesRoles.includes(userInfo.role)" class="w-100 sidebar-button-holder"><button class="h-75 w-75 fs-5 sidebar-buttons" (click)="openComponent('grades')"><i class="bi bi-123 me-4 fs-2"></i>OCJENE</button></div>
+        <div *ngIf="examsRoles.includes(userInfo.role)" class="w-100 sidebar-button-holder"><button class="h-75 w-75 fs-5 sidebar-buttons" (click)="openComponent('exams')"><i class="bi bi-card-checklist me-4 fs-3"></i>TESTOVI</button></div>
+        <div *ngIf="absencesRoles.includes(userInfo.role)" class="w-100 sidebar-button-holder"><button class="h-75 w-75 fs-5 sidebar-buttons" (click)="openComponent('absences')"><i class="bi bi-journal-check me-4 fs-4"></i>IZOSTANCI</button></div>
+        <div *ngIf="notesRoles.includes(userInfo.role)" class="w-100 sidebar-button-holder"><button class="h-75 w-75 fs-5 sidebar-buttons" (click)="openComponent('notes')"><i class="bi bi-exclamation-triangle me-4 fs-4"></i>OPOMENE</button></div>
+        <div *ngIf="studentRulesRoles.includes(userInfo.role)" class="w-100 sidebar-button-holder"><button class="h-75 w-75 fs-5 sidebar-buttons" (click)="openComponent('student-rule')"><i class="bi bi-star me-4 fs-4"></i>VLADANJE</button></div>
+    </div>
+    <div class="container-fluid" style="height: 75px;">
+        <div class="row h-100 w-100">
+            <div class="col-6 d-flex justify-content-center align-items-center">
+                <button class="bottom-buttons"><i class="bi bi-person-circle me-2"></i>Profil</button>
+            </div>
+            <div class="col-6 d-flex justify-content-center align-items-center">
+                <button class="bottom-buttons" (click)="logOut()"><i class="bi bi-box-arrow-right me-2"></i>Odjava</button>
+            </div>
+        </div>
+    </div>
+</div>

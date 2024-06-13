@@ -1,0 +1,50 @@
+<div class="component-holder">
+    <div class="navbar drop-shadow" >
+        <p class="navbar-title fs-5">Pregled izostanaka</p>
+    </div>
+    <div [@fadeInOut] class="subtitle-holder">
+        <p class="subtitle fs-3">Filteri</p>
+    </div>
+    <div [@fadeInOut] class="filter-holder drop-shadow">
+            <div [@fadeInOut] class="filter-box">
+                <label class="filter-label fs-6" for="subjects">Predmeti</label>
+                <select [(ngModel)]="selectedSubject" class="filter-select" name="subjectNames" id="subjects">
+                    <option>-</option>
+                    <option *ngFor="let s of subjects" [value]="s.subjectName">{{s.subjectName}}</option>
+                </select>
+            </div>
+            <div [@fadeInOut] class="filter-box">
+                <label class="filter-label fs-6" for="grades">Opravdano</label>
+                <select [(ngModel)]="selectedJustification" class="filter-select" name="gradeValues" id="grades">
+                    <option>-</option>
+                    <option *ngFor="let jt of justificationTypes" [ngValue]="jt">{{jt === true ? 'Da' : 'Ne'}}</option>
+                </select>
+            </div>
+            <div *ngIf="userInfo.role === 'Parent'" [@fadeInOut] class="filter-box">
+                <label class="filter-label fs-6" for="subjects">Učenici</label>
+                <select [(ngModel)]="selectedStudent" class="filter-select" name="studentNames" id="students" (change)="loadStudentAbsences()">
+                    <option>-</option>
+                    <option *ngFor="let s of students" [value]="s.id">{{s.firstName + ' ' + s.lastName}}</option>
+                </select>
+            </div>
+    </div>
+    <div [@fadeInOut] class="subtitle-holder">
+        <p class="subtitle fs-3">Testovi</p>
+    </div>
+    <div [@fadeInOut] class="data-table drop-shadow container-fluid">
+        <div class="table-header row fs-5">
+            <div class="table-header-cells col-2">Predmet</div>
+            <div class="table-header-cells col-3">Bilješka</div>
+            <div class="table-header-cells col-3">Profesor</div>
+            <div class="table-header-cells col-1">Opravdano</div>
+            <div class="table-header-cells col-3">Datum</div>
+        </div>
+        <div [@fadeInOut] *ngFor="let sa of filterAbsences()" class="table-row row fs-6" >
+            <div class="table-body-cells col-2">{{sa.lecture}}</div>
+            <div class="table-body-cells col-3">{{sa.absenceNote}}</div>
+            <div class="table-body-cells col-3">{{sa.teacher}}</div>
+            <div class="table-body-cells col-1">{{sa.justified === true ? 'Da' : 'Ne'}}</div>
+            <div class="table-body-cells col-3">{{sa.absenceDate}}</div>
+        </div>
+    </div>
+</div>

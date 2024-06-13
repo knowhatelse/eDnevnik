@@ -1,0 +1,10 @@
+@mixin input-focus($border-color) {
+    &:focus {
+      border: 3px solid $border-color;
+      outline: none;
+    }
+  }
+
+.drop-shadow {
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.20);
+}

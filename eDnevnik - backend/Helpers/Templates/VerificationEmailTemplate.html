@@ -1,0 +1,63 @@
+﻿<html>
+<head>
+    <style>
+        .container {
+            text-align: center;
+            margin: 0 auto;
+            padding: 20px;
+            max-width: 600px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            border: 1px solid black;
+            border-radius: 20px;
+        }
+        .box {
+            border-radius: 20px;
+            padding: 20px;
+            color: white;
+            margin-bottom: 10px;
+        }
+        .welcome-box {
+            background-color: #20164D;
+            border: 5px solid #20164D;
+            font-size: 32px;
+            font-weight: bold;
+        }
+        .info-box {
+            background-color: white;
+            color: black;
+            font-size: 16px;
+            font-weight: bold;
+
+        }
+        .code-box {
+            background-color: #FF784E;
+            border-radius: 20px;
+            padding: 10px;
+            font-size: 38px;
+            font-weight: bold;
+        }
+        .footer {
+            margin-top: 20px;
+            color: #20164D;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+<div class='container'>
+    <div class='box welcome-box'>
+        Welcome to eDnevnik!
+    </div>
+    <div class='box info-box'>
+        Thank you for joining us! <br> To verify your account, please use the following verification code:
+    </div>
+    <div class='box code-box'>
+        {VerificationToken}
+    </div>
+    <div class='footer'>
+        <p style='color: black; font-style: italic; font-size: 14px;'>If you didn't request this verification, please ignore this email.</p>
+        <p style='color: #20164D; font-size: 13px;'>&copy; eDnevnik 2023. All rights reserved.</p>
+    </div>
+</div>
+</body>
+</html>

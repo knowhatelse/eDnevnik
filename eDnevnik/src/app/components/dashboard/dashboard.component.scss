@@ -1,0 +1,73 @@
+@import '../../../styles.scss';
+
+#title {
+    cursor: pointer;
+    transition: all 0.2s ease;
+    color: white;
+}
+
+#title:hover{
+    color: $light-gold;
+}
+
+.bottom-buttons {
+    height: 60%;
+    width: 60%;
+    border: none;
+    background-color: transparent;
+    color: white;
+    font-size: 14.75px;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bottom-buttons:hover {
+    color: $light-gold;
+    transform: scale(1.1);
+}
+
+.sidebar-button-holder {
+    //background-color: yellow;
+    height: 60px;
+    display:  flex;
+    justify-content: end;
+    align-items: center;
+    transition: all 0.2s ease;
+    cursor: pointer;
+}
+
+.sidebar-button-holder:hover {
+    background-color: $green-selected;
+}
+
+.sidebar-buttons {
+    background-color: transparent;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    color: white;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    margin-right: 10px;
+}
+
+.sidebar-buttons:hover {
+    // background-color: $green-selected;
+    color: $light-gold;
+    transform: scale(1.1);
+}
+
+// @media only screen and (min-width: 2020px){
+//     .sidebar-buttons {
+//         justify-content: center;
+//     }
+// }
+
+@media only screen and (max-width: 1500px) {
+    .sidebar-button-holder {
+        justify-content: center;
+    }
+}

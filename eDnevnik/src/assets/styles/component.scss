@@ -1,0 +1,154 @@
+@import '../styles/colorPallet';
+
+.component-holder {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
+
+.navbar {
+    background-color: $gray-bright;
+    background-color: white;
+    width: 100%;
+    min-height: 50px;
+    max-height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar-title {
+    width: 90%;
+    color: $green;
+    opacity: 0;
+    animation: textFadeIn 1s ease forwards;
+}
+
+.subtitle-holder {
+    height: 70px;
+    width: 90%;
+    max-width: 1920px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.subtitle {
+    font-weight: bold;
+    color: $green;
+}
+
+.filter-holder {
+    background-color: $white;
+    border-radius: 20px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    width: 90%;
+    max-width: 1920px;
+    height: 100px;
+}
+
+.filter-box {
+    width: 33.33%;
+    height: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.filter-label {
+    color: $green;
+    font-weight: bold;
+}
+
+.filter-select {
+    border: 2px solid $green;
+    border-radius: 10px;
+    background-color: $white;
+    margin-top: 2px;
+    margin-bottom: 3px;
+    width: 90%;
+    height: 25px;
+    padding-left: 10px;
+    color: $green;
+}
+
+.data-table {
+    background-color: $white;
+    width: 90%;
+    max-width: 1920px;
+    height: 100%;
+    margin-bottom: 35px;
+    border-radius: 20px;
+    background-color: $white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: scroll;
+}
+
+.table-header {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    height: 65px;
+    width: 97.5%;
+    color: $green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.table-row {
+    border-top: 2px solid $gray-bright;
+    color: $green-selected;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    width: 97.5%;
+}
+
+.table-row:hover {
+    background-color: $gray-bright;
+}
+
+.table-header-cells {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
+
+.table-body-cells {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@keyframes textFadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@media only screen and (min-width: 2415px){
+   .navbar {
+    justify-content: start;
+   }
+   .navbar-title{
+    margin-left: 25px;
+   }
+}

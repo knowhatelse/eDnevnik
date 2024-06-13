@@ -1,0 +1,32 @@
+<div class="component-holder">
+    <div class="navbar drop-shadow" >
+        <p class="navbar-title fs-5">Pregled vladanja</p>
+    </div>
+    <div *ngIf="userInfo.role === 'Parent'" [@fadeInOut] class="subtitle-holder">
+        <p class="subtitle fs-3">Filteri</p>
+    </div>
+    <div *ngIf="userInfo.role === 'Parent'" [@fadeInOut] class="filter-holder drop-shadow">
+        <div [@fadeInOut] class="filter-box">
+            <label class="filter-label fs-6" for="students">Učenici</label>
+            <select [(ngModel)]="selectedStudent" class="filter-select" name="studentNames" id="students" (change)="loadStudentRules()">
+                <option>-</option>
+                <option *ngFor="let s of students" [value]="s.id">{{s.firstName + ' ' + s.lastName}}</option>
+            </select>
+        </div>
+</div>
+    <div [@fadeInOut] class="subtitle-holder">
+        <p class="subtitle fs-3">Vladanje</p>
+    </div>
+    <div [@fadeInOut] class="data-table drop-shadow container-fluid">
+        <div class="table-header row fs-5">
+            <div class="table-header-cells col-4">Vladanje</div>
+            <div class="table-header-cells col-4">Razlog</div>
+            <div class="table-header-cells col-4">Datum</div>
+        </div>
+        <div [@fadeInOut] *ngFor="let sr of studentRules" class="table-row row fs-6" >
+            <div class="table-body-cells col-4">{{sr.ruleValue}}</div>
+            <div class="table-body-cells col-4">{{sr.ruleReason}}</div>
+            <div class="table-body-cells col-4">{{sr.ruleDate}}</div>
+        </div>
+    </div>
+</div>

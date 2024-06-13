@@ -1,0 +1,33 @@
+<div id="content-holder-div" class="container-fluid d-flex justify-content-center">
+    <div id="center-div" class="container align-self-center">
+        <div class="row h-100 w-100">
+            <div id="center-div-left" class="col-xl-7">
+                <div class="row h-50 d-flex">
+                    <p id="title-left" class="align-self-end text-center">eDnevnik</p>
+                </div>
+                <div class="row h-50 d-flex justify-content-center">
+                    <button mat-raised-button id="register-button" class=" drop-shadow align-self-center"
+                        (click)="register()">Registriraj se</button>
+                </div>
+            </div>
+            <form #loginForm="ngForm" id="center-div-right" class="col-xl-5" (ngSubmit)="login()" autocomplete="off">
+                <div class="row h-50">
+                    <div class="container d-flex flex-column justify-content-center align-self-end">
+                        <div class="col-12">
+                            <p id="title-right" class="fs-2 mb-5 d-flex justify-content-center fw-bold">Prijava</p>
+                        </div>
+                        <div class="col-12 d-flex justify-content-center">
+                            <input name="username" [(ngModel)]="loginCredentials.username" type="text" placeholder="Korisničko ime" class="form-control p-3 mb-4 drop-shadow">
+                        </div>
+                        <div class="col-12 d-flex justify-content-center">
+                            <input name="password" [(ngModel)]="loginCredentials.password" type="password" placeholder="Šifra" class="form-control p-3 drop-shadow">
+                        </div>
+                    </div>
+                </div>
+                <div class="row h-50 d-flex justify-content-center">
+                    <button id="login-button" class="align-self-center drop-shadow" type="submit">Prijavi se</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

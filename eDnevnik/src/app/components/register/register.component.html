@@ -1,0 +1,55 @@
+<form  #registerForm="ngForm" style="height: 95%; height: 95%;" autocomplete="off" (ngSubmit)="register()">
+    <h1 mat-dialog-title class="text-center fs-1 mt-4 fw-bold" style="color: #007575;">Registracija</h1>
+    <div mat-dialog-content
+        class="h-75 w-100 align-self-center container-fluid d-flex justify-content-center align-items-center">
+        <div class="d-flex flex-column justify-content-center align-items-center">
+            <div class="row h-25 mt-3">
+                <img src="../../assets/images/registration.png" alt="Registration" style="height: 128px; width: 128px;">
+            </div>
+            <div class="row h-75 w-100 mt-5">
+                <div class="col-6 d-flex justify-content-start ">
+                    <input name="firstName" [(ngModel)]="registerCredentials.firstName" type="text" placeholder="Ime" class="form-control mb-2 drop-shadow pop-up-input">
+                </div>
+                <div class="col-6 d-flex justify-content-end name-surname-holder">
+                    <input name="lastName" [(ngModel)]="registerCredentials.lastName" type="text" placeholder="Prezime" class="form-control mb-2 drop-shadow pop-up-input">
+                </div>
+                <div class="col-6 d-flex justify-content-start">
+                    <input name="username" [(ngModel)]="registerCredentials.username" type="text" placeholder="Korisničko ime" class="form-control mb-2 drop-shadow pop-up-input">
+                </div>
+                <div class="col-6 d-flex justify-content-end">
+                    <input name="password" [(ngModel)]="registerCredentials.password" type="password" placeholder="Šifra" class="form-control mb-2 drop-shadow pop-up-input">
+                </div>
+                <div class="col-6 d-flex justify-content-start">
+                    <input name="birthDate" [(ngModel)]="registerCredentials.birthDate" type="date" placeholder="DD/MM/GGGG" class="form-control drop-shadow pop-up-input">
+                </div>
+                <div class="col-6 d-flex justify-content-end">
+                    <input name="adress" [(ngModel)]="registerCredentials.address" type="text" placeholder="Adresa" class="form-control mb-2 drop-shadow pop-up-input">
+                </div>
+                <div class="col-6 d-flex justify-content-start">
+                    <input name="city" [(ngModel)]="registerCredentials.city" type="text" placeholder="Grad" class="form-control mb-2 drop-shadow pop-up-input">
+                </div>
+                <div class="col-6 d-flex justify-content-end">
+                    <input name="postalCode" [(ngModel)]="registerCredentials.postalCode" type="text" placeholder="Poštanski broj" class="form-control mb-2 drop-shadow pop-up-input">
+                </div>
+                <div class="col-6 d-flex justify-content-start">
+                    <input name="email" [(ngModel)]="registerCredentials.email" type="text" placeholder="Email" class="form-control mb-2 drop-shadow pop-up-input">
+                </div>
+                <div class="col-6 d-flex justify-content-end">
+                    <input name="phone" [(ngModel)]="registerCredentials.phone" type="text" placeholder="Broj telefona" class="form-control mb-2 drop-shadow pop-up-input">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div mat-dialog-actions class="container-fluid d-flex align-items-center">
+        <div class="row h-100 w-100">
+            <div class="col-6 d-flex justify-content-center">
+                <button mat-raised-button mat-dialog-close class="drop-shadow m-1 pop-up-button"
+                    style="background-color: #00C9CD;">Zatvori</button>
+            </div>
+            <div class="col-6 d-flex justify-content-center">
+                <button mat-raised-button class="drop-shadow m-1 pop-up-button"
+                    style="background-color: #EEE8A9;">Registriraj se</button>
+            </div>
+        </div>
+    </div>
+</form>

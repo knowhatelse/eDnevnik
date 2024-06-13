@@ -1,0 +1,42 @@
+<div class="component-holder">
+    <div class="navbar drop-shadow" >
+        <p class="navbar-title fs-5">Pregled testova</p>
+    </div>
+    <div [@fadeInOut] class="subtitle-holder">
+        <p class="subtitle fs-3">Filteri</p>
+    </div>
+    <div [@fadeInOut] class="filter-holder drop-shadow">
+            <div [@fadeInOut] class="filter-box">
+                <label class="filter-label fs-6" for="subjects">Predmeti</label>
+                <select [(ngModel)]="selectedSubject" class="filter-select" name="subjectNames" id="subjects">
+                    <option>-</option>
+                    <option *ngFor="let s of subjects" [value]="s.id">{{s.subjectName}}</option>
+                </select>
+            </div>
+            <div *ngIf="userInfo.role === 'Parent'" [@fadeInOut] class="filter-box">
+                <label class="filter-label fs-6" for="subjects">Učenici</label>
+                <select [(ngModel)]="selectedStudent" class="filter-select" name="studentNames" id="students" (change)="loadStudentExams()">
+                    <option>-</option>
+                    <option *ngFor="let s of students" [value]="s.id">{{s.firstName + ' ' + s.lastName}}</option>
+                </select>
+            </div>
+            <div class="filter-box"></div>
+    </div>
+    <div [@fadeInOut] class="subtitle-holder">
+        <p class="subtitle fs-3">Testovi</p>
+    </div>
+    <div [@fadeInOut] class="data-table drop-shadow container-fluid">
+        <div class="table-header row fs-5">
+            <!-- <div class="table-header-cells col-3">Test</div> -->
+            <div class="table-header-cells col-4">Bilješka</div>
+            <div class="table-header-cells col-4">Datum</div>
+            <div class="table-header-cells col-4">Predmet</div>
+        </div>
+        <div [@fadeInOut] *ngFor="let se of filterExams()" class="table-row row fs-6" >
+            <!-- <div class="table-body-cells col-3">{{se.examName}}</div> -->
+            <div class="table-body-cells col-4">{{se.postContent}}</div>
+            <div class="table-body-cells col-4">{{se.examDate}}</div>
+            <div class="table-body-cells col-4">{{se.subject}}</div>
+        </div>
+    </div>
+</div>
